@@ -65,7 +65,7 @@
     ![Alt text](https://github.com/kurdush/HOUSE-SALES-PREDICTION/blob/8367dd7b131cbf18e527687a84979346fe5a9e5e/Images/KDE_plot_for_price_vs_probability_density_function.png)
   
  * ### Residual plot for price vs probability density function.
-    ![Alt text]()
+    ![Alt text](https://github.com/kurdush/HOUSE-SALES-PREDICTION/blob/2cb057bfaae208efdaf191c375b5d2dead9088d1/Images/Residual_plot_for_price_vs_probability_density_function.png)
     
  * ###  final regression plot which got accuracy upto 80%
     ![Alt text]()
