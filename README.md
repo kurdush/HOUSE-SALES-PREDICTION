@@ -40,9 +40,37 @@
 ---------------------------------------
 
 ## Visualizations 
+ * ### CountPlot
+    ![Alt text]()
+    
+    \- The above graph is Count plot between bedrooms,bathrooms,floors and grade. We use countplot rather scatter plot for easy understanding.
+    
 * ### Scatter Plot Matrix
-   ![Alt text](Images/KDE plot for price vs probability density function.png)
+   ![Alt text]()
    
+   \- These are  scatter plots for all the sqft area columns with respect to price. It is used here to observe and show the relationship between numerical values. In the above plots , dots represents actual data points.
+   
+ 
+ * ### Regression Plot
+    ![Alt text]()
+    
+    \- Regression plot for the above four scatter plots. The linear line is the predicted one.
+ 
+ * ### Heat Map
+    ![Alt text]()
+    
+    \- This is a heatmap is drawn only between selected columns which are having high correlation values. 
+ 
+ * ### KDE plot for price vs probability density function
+    ![Alt text](https://github.com/kurdush/HOUSE-SALES-PREDICTION/blob/8367dd7b131cbf18e527687a84979346fe5a9e5e/Images/KDE_plot_for_price_vs_probability_density_function.png)
+  
+ * ### Residual plot for price vs probability density function.
+    ![Alt text]()
+    
+ * ###  final regression plot which got accuracy upto 80%
+    ![Alt text]()
+    
+  
 
    
 
