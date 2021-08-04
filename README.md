@@ -52,7 +52,7 @@
    
  
  * ### Regression Plot
-    ![Alt text]()
+    ![Alt text](https://github.com/kurdush/HOUSE-SALES-PREDICTION/blob/581f9545f3d0b21c535170b489a865b79052fc0e/Images/scatter_plot.png)
     
     \- Regression plot for the above four scatter plots. The linear line is the predicted one.
  
