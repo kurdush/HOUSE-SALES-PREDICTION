@@ -57,7 +57,7 @@
     \- Regression plot for the above four scatter plots. The linear line is the predicted one.
  
  * ### Heat Map
-    ![Alt text]()
+    ![Alt text](https://github.com/kurdush/HOUSE-SALES-PREDICTION/blob/6382df4e9d650ff70c529a261ec0542c539d79c8/Images/heatmap.png)
     
     \- This is a heatmap is drawn only between selected columns which are having high correlation values. 
  
