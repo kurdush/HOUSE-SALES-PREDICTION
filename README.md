@@ -46,7 +46,7 @@
     \- The above graph is Count plot between bedrooms,bathrooms,floors and grade. We use countplot rather scatter plot for easy understanding.
     
 * ### Scatter Plot Matrix
-   ![Alt text]()
+   ![Alt text](https://github.com/kurdush/HOUSE-SALES-PREDICTION/blob/bdfab047239353efce352090861e2032341f6c63/Images/scatter_plot_matrix.png)
    
    \- These are  scatter plots for all the sqft area columns with respect to price. It is used here to observe and show the relationship between numerical values. In the above plots , dots represents actual data points.
    
@@ -70,7 +70,11 @@
  * ###  final regression plot which got accuracy upto 80%
     ![Alt text](https://github.com/kurdush/HOUSE-SALES-PREDICTION/blob/6bbe39ea38fd43f42f295938beacd10d0598dfe5/Images/regression_plot.png)
     
-  
+
+ ## CONCLUSION
+ * The accurate prediction model would allow investors or house buyers to determine the realistic price of a house as well as the house developers to decide the affordable house price. 
+ * This  addressed the attributes used by previous researchers to forecast a house price using various prediction models. The models were developed based on several input attributes and they work significantly positive with house price. 
+ * In conclusion, the impact of this research was intended to help and assist other researchers in developing a real model which can easily and accurately predict house prices. Further work on a real model needs to be done with the utilization of our findings to confirm them. 
 
    
 
