@@ -41,7 +41,7 @@
 
 ## Visualizations 
 * ### Scatter Plot Matrix
-   ![Alt text](/path/to/img.jpg "Optional title")
+   ![picture alt](/images/scatter plot matrix.jpg "Optional title")
    
 
    
