@@ -41,7 +41,7 @@
 
 ## Visualizations 
 * ### Scatter Plot Matrix
-   ![picture alt](/images/scatter plot matrix.jpg "Optional title")
+   ![Alt text](Images/KDE plot for price vs probability density function.png)
    
 
    
