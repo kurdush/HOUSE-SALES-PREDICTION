@@ -41,7 +41,7 @@
 
 ## Visualizations 
  * ### CountPlot
-    ![Alt text]()
+    ![Alt text](https://github.com/kurdush/HOUSE-SALES-PREDICTION/blob/7a99ef4b580dc5ae87a026a24082181b22965193/Images/count_plot.png)
     
     \- The above graph is Count plot between bedrooms,bathrooms,floors and grade. We use countplot rather scatter plot for easy understanding.
     
