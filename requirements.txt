@@ -1,0 +1,7 @@
+pandas
+fastapi
+uvicorn
+numpy
+matplotlib
+seaborn
+sklearn.linear_model
