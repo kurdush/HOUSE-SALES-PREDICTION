@@ -2,7 +2,7 @@ pipeline {
     agent { 
         node { 
             label 'linux' 
-            customWorkspace 'C:\Users\kt045427\Desktop\jenkins_test' 
+            customWorkspace 'C:\\Users\\kt045427\\Desktop\\jenkins_test' 
         } 
     }
 
