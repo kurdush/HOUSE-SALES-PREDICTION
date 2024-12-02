@@ -4,4 +4,4 @@ uvicorn
 numpy
 matplotlib
 seaborn
-sklearn.linear_model
+sklearn
