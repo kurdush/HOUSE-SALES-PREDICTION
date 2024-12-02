@@ -1,0 +1,20 @@
+pipeline {
+    agent { 
+        node { 
+            label 'linux' 
+            customWorkspace 'C:\\Users\\kt045427\\Desktop\\jenkins_test' 
+        } 
+    }
+
+    stages {
+        stage('Start FastAPI Server') {
+            steps {
+                script {
+                    // Start the FastAPI server
+                    bat 'python model_serving.py'
+                }
+            }
+        }
+    }
+
+}
