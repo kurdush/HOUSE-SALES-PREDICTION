@@ -4,4 +4,4 @@ uvicorn
 numpy
 matplotlib
 seaborn
-sklearn
+scikit-learn
